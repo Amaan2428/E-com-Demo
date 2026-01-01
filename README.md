@@ -34,7 +34,7 @@ The project demonstrates CRUD operations, RESTful APIs, database integration usi
 - **Axios**
 - **HTML / CSS**
 
----
+<!-- ---
 
-## 📁 Project Structure
+## 📁 Project Structure -->
 
